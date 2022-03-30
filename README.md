@@ -5,9 +5,10 @@
 - 💞️ I’m looking to collaborate on anything that can help you. I worked as an instructor and mentor for 18 years.
 -  I reall like to help others. Besides this, I love reading book and gardening.
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/mine-gumus/
 
 <!---
 MineGumus/MineGumus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[<img src="https://user-images.githubusercontent.com/94003285/160731003-4e6ab064-1fa0-4e04-beb8-f207e2312932.png" width="90" height="30">](https://www.linkedin.com/in/mine-gumus/)
