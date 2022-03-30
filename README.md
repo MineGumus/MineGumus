@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MineGumus
+- 👋 Hi there. I’m Mine Gumus.
 - 👀 I’m interested in learning Amazon Web Services
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on anything that can help to you. I worked as an instructor and mentor for 18 years.
