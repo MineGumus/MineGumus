@@ -1,3 +1,4 @@
+![Banner](https://user-images.githubusercontent.com/94003285/160726707-347b63e0-ac09-492f-baa9-bf341efd3e7e.jpg)
 - 👋 Hi there. I’m Mine Gumus.
 - 👀 I’m interested in learning Amazon Web Services
 - 🌱 I’m currently learning DevOps
