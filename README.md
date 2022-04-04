@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94003285/160740658-240981a5-28a7-428e-a935-48bafc7e138b.png" height="50" /></a>
 <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="8%"> </a>
-<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" width="10%"> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="15%"> </a>
 <a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="10%"> </a>
 <a href="#" target="_blank"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="7%"> </a>
