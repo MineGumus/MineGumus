@@ -27,5 +27,5 @@ You can click the Preview link to take a look at your changes.
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94003285/161280806-425c5c70-bda6-4ef8-a01d-8f0348331eaf.png" width="12%"> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="12%"> </a>
 <a href="#" target="_blank"> <img src="https://marka-logo.com/wp-content/uploads/2020/09/Linux-Logo.png" width="10%"> </a>
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94003285/165810737-8bf1703c-7a9b-46be-8304-330666524055.png)" width="10%"> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94003285/165810737-8bf1703c-7a9b-46be-8304-330666524055.png" width="10%"> </a>
 
