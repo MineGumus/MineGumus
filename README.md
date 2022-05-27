@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/94003285/160726707-347b63e0-ac09-492f-baa9-bf341efd3e7e.jpg)
 - 👋 Hi there. I’m Mine Gumus.
-- 👀 I’m interested in learning Amazon Web Services
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in improving myself at Amazon Web Services
+- 🌱 I’m currently working as a Cloud DevOps Engineer.
 - 💞️ I’m looking to collaborate on anything that can help you. I worked as an instructor and mentor for 18 years.
 -  I really like to help people. Besides this, I love reading books and gardening.
 - 📫 How to reach me ...
